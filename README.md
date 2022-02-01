@@ -1,6 +1,6 @@
 # Projeto para o "Criando seu jogo de memória estilo Genius" da DIO
 
-Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arroy Functions.
+Nesse projeto, o desafio será criar um jogo Genius utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arroy Functions.
 
 ### Os requisitos passados são:
 
